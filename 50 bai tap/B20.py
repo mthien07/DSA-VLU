@@ -1,0 +1,16 @@
+def so_sanh_thuat_toan():
+    print("1. Dijkstra:")
+    print("- Dieu kien: Do thi co trong so khong am.")
+    print("- Do phuc tap: O((V + E) log V) voi min-heap.")
+    print("- Dac diem: Tim duong di ngan nhat tu 1 dinh den moi dinh.")
+    print("\n2. Bellman-Ford:")
+    print("- Dieu kien: Do thi co the co trong so am, nhung khong co chu trinh am.")
+    print("- Do phuc tap: O(V * E).")
+    print("- Dac diem: Co the phat hien chu trinh am. Cham hon Dijkstra.")
+    print("\n3. A* (A-Star):")
+    print("- Dieu kien: Trong so khong am, can co ham heuristic h(n) uu luong khoang cach den dich.")
+    print("- Do phuc tap: Phu thuoc vao heuristic, toi te nhat la O((V + E) log V) nhung thuong nhanh hon.")
+    print("- Vai tro cua Heuristic: Dinh huong tim kiem ve phia dich, giam so luong dinh can duyet.")
+    print("  Vi du: A* duyet it dinh hon neu heuristic tot.")
+
+so_sanh_thuat_toan()
