@@ -1,0 +1,5 @@
+print("Gia su ham bam la h(k) = k % 10")
+print("Ke xau dua vao danh sach khoa: 10, 20, 30, 40, 50, ...")
+print("Cac khoa nay cung bi bam ve 0!")
+print("Ket qua: Bang bam tro thanh 1 danh sach lien ket dai (O(n) thoi gian tim kiem).")
+print("Phong chong: Dung Universal Hashing, SIPHash, hoac random seed.")
